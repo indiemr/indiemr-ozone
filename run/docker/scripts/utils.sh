@@ -117,7 +117,7 @@ function setDockerComposeCLIOptions () {
 }
 
 function exportHostIP() {
-    export HOST_IP_ADDRESS=ozone.indiclinic.in
+    export HOST_IP_ADDRESS=localhost
     echo "$INFO IP address set to: $HOST_IP_ADDRESS"
 }
 
