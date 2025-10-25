@@ -1,0 +1,4 @@
+HIS Component,URL,Username,Password
+-,-,-,-
+OpenMRS 3,${SERVER_SCHEME}://${O3_HOSTNAME}/openmrs/spa,admin,Admin123
+Keycloak,${SERVER_SCHEME}://${KEYCLOAK_HOSTNAME},admin,password

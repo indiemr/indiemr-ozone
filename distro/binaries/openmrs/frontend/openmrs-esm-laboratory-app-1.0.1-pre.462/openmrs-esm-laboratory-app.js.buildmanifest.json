@@ -1,0 +1,1225 @@
+{
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 9917,
+      "sizes": {
+        "javascript": 9917
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "400.js"
+      ],
+      "auxiliaryFiles": [
+        "400.js.map"
+      ],
+      "hash": "a435e1d6b0be3b63",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 403428,
+      "sizes": {
+        "javascript": 403428
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "436.js"
+      ],
+      "auxiliaryFiles": [
+        "436.js.map"
+      ],
+      "hash": "0000d94b871a2881",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2017,
+      "sizes": {
+        "javascript": 2017
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "464.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "e0f258b3228e215c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "552.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "293ec62dad4a9fc8",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 45265,
+      "sizes": {
+        "javascript": 45265
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "764.js"
+      ],
+      "auxiliaryFiles": [
+        "764.js.map"
+      ],
+      "hash": "af8883eb54474fe4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "1448.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c6490bbfbd2dae73",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 3327799,
+      "sizes": {
+        "javascript": 3327799
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-laboratory-app"
+      ],
+      "files": [
+        "1556.js"
+      ],
+      "auxiliaryFiles": [
+        "1556.js.map"
+      ],
+      "hash": "733919edc118bca1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 3661919,
+      "sizes": {
+        "consume-shared": 252,
+        "javascript": 3640069,
+        "share-init": 210,
+        "runtime": 21388
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [
+        "main.js.map"
+      ],
+      "hash": "34daa5cc8e127005",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 650,
+      "sizes": {
+        "javascript": 650
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "1636.js"
+      ],
+      "auxiliaryFiles": [
+        "1636.js.map"
+      ],
+      "hash": "c2a60ab7197dd66c",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 645,
+      "sizes": {
+        "javascript": 645
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "1708.js"
+      ],
+      "auxiliaryFiles": [
+        "1708.js.map"
+      ],
+      "hash": "6fc627148dd1d84e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3961,
+      "sizes": {
+        "javascript": 3961
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "1800.js"
+      ],
+      "auxiliaryFiles": [
+        "1800.js.map"
+      ],
+      "hash": "579c2280330fd7b6",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 414,
+      "sizes": {
+        "javascript": 414
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "2156.js"
+      ],
+      "auxiliaryFiles": [
+        "2156.js.map"
+      ],
+      "hash": "184eb07d1674d50f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "2328.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c78a5b3716851c93",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4350,
+      "sizes": {
+        "javascript": 4350
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "2636.js"
+      ],
+      "auxiliaryFiles": [
+        "2636.js.map"
+      ],
+      "hash": "72ebe545bf7dca3e",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2204,
+      "sizes": {
+        "javascript": 2204
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "2664.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "211eb33ea76503ca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1863,
+      "sizes": {
+        "javascript": 1863
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "2816.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "dfb6fabcce82de72",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "3240.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5219f30ce4a2d2b5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4378,
+      "sizes": {
+        "javascript": 4378
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "3264.js"
+      ],
+      "auxiliaryFiles": [
+        "3264.js.map"
+      ],
+      "hash": "17b55c51ff0a1f0b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 13964,
+      "sizes": {
+        "javascript": 13964
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "3724.js"
+      ],
+      "auxiliaryFiles": [
+        "3724.js.map"
+      ],
+      "hash": "a6f249c8bc022142",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 9068,
+      "sizes": {
+        "javascript": 9068
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "3956.js"
+      ],
+      "auxiliaryFiles": [
+        "3956.js.map"
+      ],
+      "hash": "d18fb240e31f9f58",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2326,
+      "sizes": {
+        "javascript": 2326
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "4412.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d70cec145aee0fc3",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 21250,
+      "sizes": {
+        "javascript": 42,
+        "share-init": 210,
+        "runtime": 20998
+      },
+      "names": [
+        "@openmrs/esm-laboratory-app"
+      ],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app"
+      ],
+      "files": [
+        "openmrs-esm-laboratory-app.js"
+      ],
+      "auxiliaryFiles": [
+        "openmrs-esm-laboratory-app.js.map"
+      ],
+      "hash": "f2d7f41e6c25c099",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "4592.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "848dfec70dc89969",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "4744.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "5b8e14d98f2721e9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "5028.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "cf5850bf65a981fc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "5086.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "f5373d56b605467d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "5136.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9e90c13c697d64a7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 79086,
+      "sizes": {
+        "javascript": 79086
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "5144.js"
+      ],
+      "auxiliaryFiles": [
+        "5144.js.map"
+      ],
+      "hash": "16f4168fed39110d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 75268,
+      "sizes": {
+        "consume-shared": 210,
+        "javascript": 75058
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app"
+      ],
+      "files": [
+        "6048.js"
+      ],
+      "auxiliaryFiles": [
+        "6048.js.map"
+      ],
+      "hash": "f9401cf066ffced9",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 417,
+      "sizes": {
+        "javascript": 417
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "6092.js"
+      ],
+      "auxiliaryFiles": [
+        "6092.js.map"
+      ],
+      "hash": "736fc75eb4630d06",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "6352.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d89578c3d28adbca",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2276,
+      "sizes": {
+        "javascript": 2276
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "6504.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "bfbe11ee7de4fbcf",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 19206,
+      "sizes": {
+        "javascript": 19206
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "6676.js"
+      ],
+      "auxiliaryFiles": [
+        "6676.js.map"
+      ],
+      "hash": "9e5262fb71a2a436",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "6856.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "331db01b19b3359d",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: default)",
+      "size": 42,
+      "sizes": {
+        "consume-shared": 42
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [],
+      "auxiliaryFiles": [],
+      "hash": "196dd4d9a981ffb1",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 40296,
+      "sizes": {
+        "javascript": 40296
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "7295.js"
+      ],
+      "auxiliaryFiles": [
+        "7295.js.map"
+      ],
+      "hash": "5b33527e3420bade",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 636,
+      "sizes": {
+        "javascript": 636
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "7328.js"
+      ],
+      "auxiliaryFiles": [
+        "7328.js.map"
+      ],
+      "hash": "819fd1a7a3684419",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 4032,
+      "sizes": {
+        "javascript": 4032
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "7540.js"
+      ],
+      "auxiliaryFiles": [
+        "7540.js.map"
+      ],
+      "hash": "12cacd8c2ce0ef0b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 620,
+      "sizes": {
+        "javascript": 620
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "7724.js"
+      ],
+      "auxiliaryFiles": [
+        "7724.js.map"
+      ],
+      "hash": "50323ba8064a73b7",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8064.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "67b7e6d6b2ef8991",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8170.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "70ceb3b6e522d167",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8256.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "44c38592d76946fc",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 116513,
+      "sizes": {
+        "javascript": 116513
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8320.js"
+      ],
+      "auxiliaryFiles": [
+        "8320.js.map"
+      ],
+      "hash": "21498c577688ccf4",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 609,
+      "sizes": {
+        "javascript": 609
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8684.js"
+      ],
+      "auxiliaryFiles": [
+        "8684.js.map"
+      ],
+      "hash": "ddc49c46f24746dd",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8698.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9fa5f065ef7b959a",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8720.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6115c5286662f8e5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "reused as split chunk (cache group: defaultVendors)",
+      "size": 4938571,
+      "sizes": {
+        "javascript": 4938571
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "8728.js"
+      ],
+      "auxiliaryFiles": [
+        "8728.js.map"
+      ],
+      "hash": "ee4291bdce65a6c2",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 237212,
+      "sizes": {
+        "javascript": 237212
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "9064.js"
+      ],
+      "auxiliaryFiles": [
+        "9064.js.map"
+      ],
+      "hash": "009b98614254730f",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2240,
+      "sizes": {
+        "javascript": 2240
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "9464.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "22c26292833cdc4b",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "9656.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6e3cc8765334b7e5",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2114,
+      "sizes": {
+        "javascript": 2114
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "9832.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "de38793cea937700",
+      "childrenByOrder": {}
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 2026,
+      "sizes": {
+        "javascript": 2026
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "@openmrs/esm-laboratory-app",
+        "main"
+      ],
+      "files": [
+        "9864.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "663207cfa5ce03a4",
+      "childrenByOrder": {}
+    }
+  ]
+}

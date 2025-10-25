@@ -1,0 +1,4 @@
+HIS Component,URL,Username,Password
+-,-,-,-
+OpenMRS 3,http://localhost/openmrs/spa,admin,Admin123
+Keycloak,http://localhost/auth,admin,password

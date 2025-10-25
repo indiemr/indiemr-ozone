@@ -1,0 +1,22 @@
+{
+  "@openmrs/esm-primary-navigation-app": {
+    "externalRefLinks": [
+      {
+        "title": "Pharmacy, Billing & Inventory",
+        "redirect": "http://192.168.0.180:8069"
+      },
+      {
+        "title": "Laboratory",
+        "redirect": "http://192.168.0.180:8081"
+      },
+      {
+        "title": "PACS",
+        "redirect": "${ORTHANC_PUBLIC_URL}"
+      },
+      {
+        "title": "Reporting & Analytics",
+        "redirect": "http://192.168.0.180:8088"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app=globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app||[]).push([[468],{4087:e=>{e.exports=JSON.parse('{"chartView":"Visualização do prontuário","dateAndTime":"Data e hora","displaying":"Exibindo","encounterType":"Tipo de encontro","tableView":"Visualização em tabela"}')}}]);

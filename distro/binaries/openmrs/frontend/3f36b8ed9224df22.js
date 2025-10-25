@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopenmrs=self.webpackChunkopenmrs||[]).push([[6227,8608],{78608:(e,a,t)=>{t.r(a),t.d(a,{default:()=>r,immutable:()=>l});var n=t(35428),s=t(21632);const l=e=>(a,t,n)=>(n.revalidateOnFocus=!1,n.revalidateIfStale=!1,n.revalidateOnReconnect=!1,e(a,t,n)),r=(0,s.Ht)(n.Ay,l)}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_patient_allergies_app=globalThis.webpackChunk_openmrs_esm_patient_allergies_app||[]).push([[2610,229],{2610:(e,a,l)=>{l.r(a),l.d(a,{default:()=>n,immutable:()=>s});var t=l(8917),i=l(6112);const s=e=>(a,l,t)=>(t.revalidateOnFocus=!1,t.revalidateIfStale=!1,t.revalidateOnReconnect=!1,e(a,l,t)),n=(0,i.withMiddleware)(t.Ay,s)}}]);

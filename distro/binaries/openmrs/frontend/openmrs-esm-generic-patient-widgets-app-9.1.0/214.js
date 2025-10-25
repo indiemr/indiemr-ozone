@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app=globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app||[]).push([[214],{9214:e=>{e.exports=JSON.parse('{"chartView":"Xem biểu đồ","dateAndTime":"Ngày và giờ","displaying":"Đang hiển thị","encounterType":"Loại gặp gỡ","tableView":"Xem bảng"}')}}]);

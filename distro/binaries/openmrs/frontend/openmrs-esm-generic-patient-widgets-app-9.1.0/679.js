@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app=globalThis.webpackChunk_openmrs_esm_generic_patient_widgets_app||[]).push([[679],{6679:e=>{e.exports=JSON.parse('{"chartView":"Visualização de Gráfico","dateAndTime":"Data e hora","displaying":"Visualizando","encounterType":"Tipo de consulta","tableView":"Visualização em Tabela"}')}}]);
